@@ -1,5 +1,5 @@
 {
-  "name": "sn-theme-muteddark",
+  "name": "sn-theme-olivedark",
   "version": "2.0",
   "main": "dist/dist.css",
   "devDependencies": {
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:dhudicek/sn-theme-muteddark.git"
+    "url": "git@github.com:dhudicek/sn-theme-olivedark.git"
   }
 }

@@ -1,16 +1,16 @@
 {
-    "identifier": "io.github.dhudicek.sn-theme-muteddark",
+    "identifier": "io.github.dhudicek.sn-theme-olivedark",
     "name": "Muted Dark",
     "content_type": "SN|Theme",
     "area": "themes",
     "version": "2.0",
     "description": "Standard Notes dark theme with muted colors",
     "url": "http://localhost:8001/dist/dist.css",
-    "latest_url": "http://localhost:8001/sn-theme-muteddark.json",
+    "latest_url": "http://localhost:8001/sn-theme-olivedark.json",
     "dock_icon": {
         "type": "circle",
-        "background_color": "#101010",
-        "foreground_color": "#101010",
+        "background_color": "#5e6239",
+        "foreground_color": "#5e6239",
         "border_color": "#5e6239"
     },
     "statusBar": "dark-content"
