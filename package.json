@@ -1,6 +1,6 @@
 {
   "name": "sn-theme-olivelight",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "main": "dist/dist.css",
   "devDependencies": {
     "grunt": "^1.1.0",
