@@ -1,5 +1,5 @@
 {
-  "name": "sn-theme-olivedark",
+  "name": "sn-theme-olivelight",
   "version": "2.0.1",
   "main": "dist/dist.css",
   "devDependencies": {
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:dhudicek/sn-theme-olivedark.git"
+    "url": "git@github.com:dhudicek/sn-theme-olivelight.git"
   }
 }
